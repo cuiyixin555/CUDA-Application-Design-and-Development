@@ -37,3 +37,6 @@ Application of CUDA in Real-World Problems
 
 ### Chapter12
 Applications for Live Video Streaming  
+
+### Book Cover
+![Image text](https://github.com/cuiyixin555/CUDA-Application-Design-and-Development/blob/master/book_cover.jpg)
